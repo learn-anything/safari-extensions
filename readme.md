@@ -1,5 +1,3 @@
-# Free and non free books all can learn from 📚
-
 <h1 align="center"> Free Safari extensions all can use 🌐 </h1>
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting Safari extensions one can use. 🔭
