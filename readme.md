@@ -1,5 +1,17 @@
 <h1 align="center"> Free Safari extensions all can use 🌐 </h1>
 
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/safari-extensions/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
+
+
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting Safari extensions one can use. 🔭
 
 Pull requests are welcome. Thank you. 💙
