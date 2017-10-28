@@ -1,6 +1,6 @@
 # Free Safari extensions all can use 🌐 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 ## Description 📕
-Here is a curated list of all the interesting Safari extensions one can use. 🔭
+Here is a curated list of all the interesting Safari extensions one can use. 
 
 Pull requests are welcome. Thank you. 💙
 
