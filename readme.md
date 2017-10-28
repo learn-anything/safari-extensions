@@ -1,5 +1,4 @@
-<h1 align="center"> Free Safari extensions all can use 🌐 </h1> [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-
+# Free Safari extensions all can use 🌐 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 ## Description 📕
 Here is a curated list of all the interesting Safari extensions one can use. 🔭
 
