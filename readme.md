@@ -1,10 +1,10 @@
-# Free Safari extensions all can use 🌐 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting Safari extensions one can use. 
+# Interesting Safari extensions [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-Pull requests are welcome. Thank you. 💙
+This is a curated list of all the interesting Safari extensions.
 
-### Related websites / repositories 
+Pull requests are welcome. Thank you. 💜
+
+## Related websites / repositories 
 - [Safari extensions gallery](https://safari-extensions.apple.com)
 
 ## Safari Extensions 
@@ -73,3 +73,6 @@ Pull requests are welcome. Thank you. 💙
 ### [Shellfish](http://open-bits.com/shellfish/)
 - removes all the annoying 'share this page' links and buttons from the Internet
 
+
+## Contribute 
+If you found a Safari extension that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
