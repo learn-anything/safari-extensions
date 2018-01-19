@@ -7,7 +7,7 @@
 - [Wikiwand](http://www.wikiwand.com) - Wiki UI refinement (less noise and focus on content + night mode).
 - [AlienTube](https://github.com/mabako/alientube) - Youtube comments are useless, this shows Reddit comments on videos that were submitted to Reddit.
 - [Stylish](http://sobolev.us/stylish/) - Allows for local customisations of various websites. [Here](https://medium.com/@NikitaVoloboev/the-best-kind-of-web-3c9131a1fd99) are some example night themes you can set up to use from it.
-- [Nightlight](https://github.com/Gofake1/Nightlight)] - In the case where there is no Stylish theme available, you can turn on a permanenet night theme mode with this extension. It attempts to bring night theme mode to websites that don't natively support it.
+- [Nightlight](https://github.com/Gofake1/Nightlight) - In the case where there is no Stylish theme available, you can turn on a permanenet night theme mode with this extension. It attempts to bring night theme mode to websites that don't natively support it.
 - [Octotree](https://github.com/buunguyen/octotree) - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 - [Refined GitHub](https://github.com/fantattitude/refined-github-safari) - Some small UI and usability improvements on the [Github](https://github.com/) website.
 - [Reddit Enchancement Suite ](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - A ton of amazing additions to the [Reddit](http://www.reddit.com/) website.
