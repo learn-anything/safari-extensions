@@ -1,5 +1,5 @@
 # Interesting Safari extensions [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
+[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
 
 ## General
 - [sVim](https://github.com/flipxfx/sVim) -  Adds a custom layer of keybinds you can customise to personalise your browsing experience. [Here](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c) is an example of config you might make.
