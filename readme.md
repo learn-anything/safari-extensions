@@ -1,5 +1,5 @@
-# Interesting Safari extensions [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists)
-*Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
+# Interesting Safari extensions [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#readme)
+*Please read the [contribution guidelines](contributing.md/#contribution-guidelines#readme) before contributing.*
 
 ## General
 - [sVim](https://github.com/flipxfx/sVim) -  Adds a custom layer of keybinds you can customise to personalise your browsing experience. [Here](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c) is an example of config you might make.
@@ -34,10 +34,10 @@
 - [Canibos's Safari extensions](http://canisbos.com)
 
 ## Contributing
-See [contribution guidelines](contributing.md/#contribution-guidelines).
+See [contribution guidelines](contributing.md/#contribution-guidelines#readme).
 
 ## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists).
+For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
