@@ -23,6 +23,7 @@
 
 ## Developer
 - [JSON formatter ](https://github.com/rfletcher/safari-json-formatter) - Makes JSON documents that you open with the browser 'human readable' by formatting them nicely.
+- [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) - Adds autocomplete for GitHub's search bar.
 
 ## Music
 - [Scroblr](http://scroblr.fm/) - Allows you to scrobble songs you listen to from Youtube, Soundcloud to your [last.fm](http://last.fm) account.
