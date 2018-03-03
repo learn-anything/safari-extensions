@@ -20,6 +20,7 @@
 - [Reddit Comments](http://safariextendr.com/extension/reddit-comments) - Provides a small button in the top toolbar that when clicked will direct you to a reddit thread where the current page you are on was submitted to, if such page exists of course.
 - [Shellfish](http://open-bits.com/shellfish/) - Removes all the annoying 'share this page' links and buttons from the Internet.
 - [Tab Options](http://canisbos.com/taboptions) - Adds a few tab-related options to the ones built into Safari.
+- [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite#reddit-enhancement-suite) - Includes many features that enhances your Reddit browsing experience.
 
 ## Developer
 - [JSON formatter ](https://github.com/rfletcher/safari-json-formatter) - Makes JSON documents that you open with the browser 'human readable' by formatting them nicely.
