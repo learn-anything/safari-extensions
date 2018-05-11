@@ -22,6 +22,7 @@
 - [Tab Options](http://canisbos.com/taboptions) - Adds a few tab-related options to the ones built into Safari.
 - [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Includes many features that enhances your Reddit browsing experience.
 - [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) - Highlights selected word in GitHub source view like Sublime Text.
+- [Select like a Boss](https://github.com/makoni/select-like-a-boss-for-safari) - Allows you to select text inside links.
 
 ## Developer
 - [JSON formatter ](https://github.com/rfletcher/safari-json-formatter) - Makes JSON documents that you open with the browser 'human readable' by formatting them nicely.
