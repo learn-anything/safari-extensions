@@ -21,7 +21,7 @@
 - [Shellfish](http://open-bits.com/shellfish/) - Removes all the annoying 'share this page' links and buttons from the Internet.
 - [Tab Options](http://canisbos.com/taboptions) - Adds a few tab-related options to the ones built into Safari.
 - [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) - Highlights selected word in GitHub source view like Sublime Text.
-- [Select like a Boss](https://github.com/makoni/select-like-a-boss-for-safari) - Allows you to select text inside links.
+- [Select](https://github.com/makoni/select-like-a-boss-for-safari) - Allows you to select text inside links.
 - [Translate](http://sidetree.com/extensions.html#Translate) - Automatically translate entire webpages into your prefered language as you browse.
 - [Recent Tab List](http://nickvdp.com/tablist/) - Keeps track of recently closed tabs and allows you to reopen them quickly.
 - [DirectLinks](http://canisbos.com/) - Makes indirect links on Google and Facebook direct.
