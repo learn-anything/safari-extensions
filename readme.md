@@ -9,7 +9,7 @@
 - [Stylish](http://sobolev.us/stylish/) - Allows for local customisations of various websites. [Here](https://wiki.nikitavoloboev.xyz/web/browsers/stylish.html) are some example night themes you can set up to use from it.
 - [Nightlight](https://github.com/Gofake1/Nightlight) - In the case where there is no Stylish theme available, you can turn on a permanenet night theme mode with this extension. It attempts to bring night theme mode to websites that don't natively support it.
 - [Octotree](https://github.com/buunguyen/octotree) - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
-- [Refined GitHub](https://github.com/fantattitude/refined-github-safari) - Some small UI and usability improvements on the [Github](https://github.com/) website.
+- [Refined GitHub](https://github.com/lautis/refined-github-safari) - Some small UI and usability improvements on the [Github](https://github.com/) website.
 - [Reddit Enchancement Suite ](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - A ton of amazing additions to the [Reddit](http://www.reddit.com/) website.
 - [Hckr News](https://hckrnews.com/about.html#extensions) - An interface change to [hacker news](https://news.ycombinator.com/) focusing on content and reducing visual noise.
 - [Sessions](https://sessions-extension.github.io/Sessions/) - Allows you to quickly save and retrieve sessions that you made. Very useful if you have many tabs open and don't want to quit them all but still want to start a new session to work from.
