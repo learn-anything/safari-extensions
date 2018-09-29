@@ -2,6 +2,7 @@
 *Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
 ## General
+- [Turn Off the Lights for Safari](https://github.com/turnoffthelights/Turn-Off-the-Lights-Safari-extension) -  Turn Off the Lights extension highlight the video player content with one click on the gray lamp button.
 - [sVim](https://github.com/flipxfx/sVim) -  Adds a custom layer of keybinds you can customise to personalise your browsing experience. [Here](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c) is an example of config you might make.
 - [AdGuard](https://adguard.com/en/adblock-adguard-safari.html) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
 - [Wikiwand](http://www.wikiwand.com) - Wiki UI refinement (less noise and focus on content + night mode).
