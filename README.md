@@ -10,8 +10,8 @@
 - [Developer](#developer)
 - [General](#general)
 - [Music](#music)
-- [Related](#related)
 - [Social](#social)
+- [Related](#related)
 
 ---
 
@@ -54,14 +54,14 @@
 
 - [Scroblr](http://scroblr.fm/) - Allows you to scrobble songs you listen to from Youtube, Soundcloud to your [last.fm](http://last.fm) account.
 
+## Social
+
+- [Social Fixer](http://socialfixer.com/download.html) - Allows you to really clean up the clutter from the Facebook home page.
+
 ## Related
 
 - [Canibos's Safari extensions](http://canisbos.com)
 - [Safari extensions gallery](https://safari-extensions.apple.com)
-
-## Social
-
-- [Social Fixer](http://socialfixer.com/download.html) - Allows you to really clean up the clutter from the Facebook home page.
 
 ---
 
