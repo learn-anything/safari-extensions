@@ -48,7 +48,6 @@
 - [Tab Options](http://canisbos.com/taboptions) - Adds a few tab-related options to the ones built into Safari.
 - [Translate](http://sidetree.com/extensions.html#Translate) - Automatically translate entire webpages into your prefered language as you browse.
 - [Turn Off the Lights for Safari](https://www.turnoffthelights.com) -  Turn Off the Lights extension highlight the video player content with one click on the gray lamp button.
-- [Wikiwand](http://www.wikiwand.com) - Wiki UI refinement (less noise and focus on content + night mode).
 
 ## Music
 
