@@ -49,6 +49,7 @@
 - [Translate](http://sidetree.com/extensions.html#Translate) - Automatically translate entire webpages into your prefered language as you browse.
 - [Turn Off the Lights for Safari](https://www.turnoffthelights.com) - Turn Off the Lights extension highlight the video player content with one click on the gray lamp button.
 - [Accelerate for Safari](https://itunes.apple.com/us/app/accelerate-for-safari/id1459809092?mt=12) - Control video speed in Safari.
+- [Polyglot](https://github.com/uetchy/Polyglot) - Safari extension that translates selected text into your native language.
 
 ## Music
 
