@@ -45,6 +45,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Turn Off the Lights for Safari](https://www.turnoffthelights.com) - Turn Off the Lights extension highlight the video player content with one click on the gray lamp button.
 - [Accelerate for Safari](https://itunes.apple.com/us/app/accelerate-for-safari/id1459809092?mt=12) - Control video speed in Safari.
 - [Polyglot](https://github.com/uetchy/Polyglot) - Safari extension that translates selected text into your native language.
+- [Safarikai](https://github.com/ashchan/safarikai) - Safari extension for translating Japanese words.
 
 ## Music
 
