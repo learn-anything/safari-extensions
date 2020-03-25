@@ -15,6 +15,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) - Adds autocomplete for GitHub's search bar.
 - [JSON Formatter](https://github.com/rfletcher/safari-json-formatter) - Makes JSON documents that you open with the browser 'human readable' by formatting them nicely.
 - [XML Viewer](https://github.com/sergeche/xmlview) - Powerful XML viewer.
+- [SourceKit](https://github.com/kishikawakatsumi/SourceKitForSafari) - Enables IDE features on your browser such as symbol navigator, go to definition and documentation on hover.
 
 ## General
 
