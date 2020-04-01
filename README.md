@@ -47,6 +47,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Accelerate for Safari](https://itunes.apple.com/us/app/accelerate-for-safari/id1459809092?mt=12) - Control video speed in Safari.
 - [Polyglot](https://github.com/uetchy/Polyglot) - Safari extension that translates selected text into your native language.
 - [Safarikai](https://github.com/ashchan/safarikai) - Safari extension for translating Japanese words.
+- [Zoom In](https://github.com/nothingmagical/ZoomIn) - Automatically open Zoom links.
 
 ## Music
 
