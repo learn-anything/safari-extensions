@@ -19,6 +19,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## General
 
+- [Ultra TabSaver](https://github.com/morsamatias/UltraTabSaver) The Open Source Tab Manager for Safari
 - [1Password](https://agilebits.com/onepassword/extensions) - [1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser.
 - [AdGuard](https://adguard.com/en/adblock-adguard-safari.html) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
 - [AlienTube](https://github.com/mabako/alientube) - Youtube comments are useless, this shows Reddit comments on videos that were submitted to Reddit.
