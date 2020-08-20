@@ -17,17 +17,21 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ultra TabSaver](https://github.com/morsamatias/UltraTabSaver) The Open Source Tab Manager for Safari
 - [1Password](https://agilebits.com/onepassword/extensions) - [1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser.
 - [AdGuard](https://adguard.com/en/adblock-adguard-safari.html) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
-- [BetterTTV](https://nightdev.com/betterttv/) - Enchances [Twitch](http://twitch.tv/) website by adding night mode + few more features.
-- [Nightlight](https://github.com/Gofake1/Nightlight) - In the case where there is no Stylish theme available, you can turn on a permanenet night theme mode with this extension. It attempts to bring night theme mode to websites that don't natively support it.
+- [Wipr](https://giorgiocalderolla.com/wipr.html) - Another content blocker using the aforementioned native API's
+- [BetterTTV](https://nightdev.com/betterttv/) - Enhances [Twitch](http://twitch.tv/) website by adding night mode + few more features.
+- [Nightlight](https://github.com/Gofake1/Nightlight) - In the case where there is no Stylish theme available, you can turn on a permanent night theme mode with this extension. It attempts to bring night theme mode to websites that don't natively support it.
 - [Octotree](https://github.com/buunguyen/octotree) - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 - [Refined GitHub](https://github.com/lautis/refined-github-safari) - Some small UI and usability improvements on the [Github](https://github.com/) website.
 - [Select](https://github.com/makoni/select-like-a-boss-for-safari) - Allows you to select text inside links.
-- [Translate](http://sidetree.com/extensions.html#Translate) - Automatically translate entire webpages into your prefered language as you browse.
+- [Translate](http://sidetree.com/extensions.html#Translate) - Automatically translate entire webpages into your preferred language as you browse.
 - [Turn Off the Lights for Safari](https://www.turnoffthelights.com) - Turn Off the Lights extension highlight the video player content with one click on the gray lamp button.
 - [Accelerate for Safari](https://itunes.apple.com/us/app/accelerate-for-safari/id1459809092?mt=12) - Control video speed in Safari.
 - [Polyglot](https://github.com/uetchy/Polyglot) - Safari extension that translates selected text into your native language.
 - [Safarikai](https://github.com/ashchan/safarikai) - Safari extension for translating Japanese words.
 - [Zoom In](https://github.com/nothingmagical/ZoomIn) - Automatically open Zoom links.
+- [Subscribe with Reeder](https://www.reederapp.com) - From the Reeder RSS app, find RSS feeds for a site and subscribe to them within the app
+- [PiPer](https://github.com/amarcu5/PiPer) - Adds a picture-in-picture button to many [supported sites](https://github.com/amarcu5/PiPer#supported-sites)
+- [Tab Suspender for Safari](https://apps.apple.com/us/app/tab-suspender-for-safari/id1495356253) - Suspend inactive tabs to reduce memory usage
 
 ## Social
 
