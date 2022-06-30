@@ -33,6 +33,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [PiPer](https://github.com/amarcu5/PiPer) - Adds a picture-in-picture button to many [supported sites](https://github.com/amarcu5/PiPer#supported-sites)
 - [Tab Suspender for Safari](https://apps.apple.com/us/app/tab-suspender-for-safari/id1495356253) - Suspend inactive tabs to reduce memory usage
 - [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
+- [GitHub File Icons](https://github.com/homerchen19/github-file-icons) - A simple browser extension changes file's icon on GitHub, GitLab, Gitea and Gogs.
 
 ## Social
 
